@@ -1,2 +1,3 @@
-nav 
-šodien
+Man šodien
+nav laika.
+Ārā spīd saule.
